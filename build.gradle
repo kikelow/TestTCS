@@ -1,0 +1,33 @@
+apply plugin: 'java'
+apply plugin: 'idea'
+
+group = 'org.pruebaTCS'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+sourceCompatibility = 11
+
+dependencies {
+
+    testImplementation group: 'junit', name: 'junit', version: '4.13.2'
+    testImplementation group: 'net.serenity-bdd', name: 'serenity-cucumber', version: '4.0.1'
+    implementation group: 'net.serenity-bdd', name: 'serenity-core', version: '4.0.1'
+    implementation group: 'net.serenity-bdd', name: 'serenity-screenplay', version: '4.0.1'
+    implementation group: 'net.serenity-bdd', name: 'serenity-junit', version: '4.0.1'
+    implementation group: 'net.serenity-bdd', name: 'serenity-screenplay-webdriver', version: '4.0.1'
+    implementation group: 'net.serenity-bdd', name: 'serenity-model', version: '4.0.1'
+}
+
+compileJava.options.encoding = 'UTF-8'
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+test {
+    useJUnitPlatform()
+    testLogging.showStandardStreams = true
+    systemProperties System.getProperties()
+}
