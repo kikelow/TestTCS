@@ -1,18 +1,0 @@
-
-Ÿ	java:S127("XRefactor the code in order to not assign to this loop counter from within the loop body.(Ùóêùÿÿÿÿ8¼Õ“ó‡2J$a40c5cd9-8c09-437c-b750-72123b0f1835
-™	java:S127*"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8¼Õ“ó‡2J$60ebc2a1-0100-4194-8f8e-a076b36c9c23
-	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(²ƒÒèüÿÿÿÿ8ÀÕ“ó‡2J$78557a80-3d0e-4618-9d14-db62b5116c11
-	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(¶î—õûÿÿÿÿ8ÀÕ“ó‡2J$b35cf099-ceee-4acd-9dce-69f66916f62a
-˜
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(üûßµıÿÿÿÿ8áš•ó‡2J$d5ba320e-06f1-4000-8e83-551472c711b2
-“
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(·¿‹Ñ8ãš•ó‡2J$250ba7da-f1a5-444b-a0db-1ea09a9663f2
-l	java:S106"+Replace this use of System.out by a logger.(ÒÁ‰8ÚÕ“ó‡2J$ca21b620-d9f0-44cf-81ee-26aa7fc3d258
-r	java:S106"+Replace this use of System.out by a logger.(…À¨šıÿÿÿÿ8ÚÕ“ó‡2J$9b57091d-e855-4cd9-b4da-e3dbf23523a4
-m	java:S106"+Replace this use of System.out by a logger.(‚ƒª™8ÚÕ“ó‡2J$20bf6274-196f-4e57-b73d-85dec891c4e7
-š
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ïÓ•ğıÿÿÿÿ8ßÕ“ó‡2J$920f794a-638d-4f72-943d-53c578cdd5f4
-‰
-java:S1126C"AReplace this if-then-else statement by a single return statement.(İŞ…–ÿÿÿÿÿ8ìÕ“ó‡2J$24df0f49-4a7a-4342-a60c-29d1e9a965d1
-m	java:S106M"+Replace this use of System.out by a logger.(’Àšÿ8ùÕ“ó‡2J$f281be52-9798-4f77-ac37-58402210cf86
-c	java:S131N""Add a default case to this switch.(î­™o8úÕ“ó‡2J$0b23c97d-c57e-4064-88e1-9f8643d9f9d9

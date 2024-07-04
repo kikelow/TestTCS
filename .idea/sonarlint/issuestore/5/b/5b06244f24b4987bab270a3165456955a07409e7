@@ -1,12 +1,0 @@
-
-ž
-java:S1450"VRemove the "numbers" field and declare it as a local variable in the relevant methods.(ÚÿßÒúÿÿÿÿ8‘ß õ‡2J$8159ddd1-9c28-47e7-ad7f-e5d13f32fbc6
-ž
-java:S1450"VRemove the "symbols" field and declare it as a local variable in the relevant methods.(²¨Çöûÿÿÿÿ8 ß õ‡2J$c09b4741-ba55-484a-b5de-9227c3c18ce9
-n
-java:S1481"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8 ß õ‡2J$97fc4734-b816-4995-b27c-cbbbd07205dc
-•
-java:S3776@"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Þ‘í´8 ß õ‡2J$134a69ce-cac1-4796-9b46-05137d263590
-m	java:S106p"+Replace this use of System.out by a logger.(ÈöØó8Ø‰¤õ‡2J$cff7ca69-6e6d-425e-9888-645409763c53
-t
-java:S1128",Remove this unused import 'java.util.Stack'.(ÞÈ†üúÿÿÿÿ8Ûñ¥õ‡2J$372eb4b3-d456-4c19-a1be-5e7657676cc2
