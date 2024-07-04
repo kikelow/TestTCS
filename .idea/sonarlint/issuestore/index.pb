@@ -39,3 +39,6 @@ g
 7src/main/java/org/testtcs/userinterfaces/TokenPage.java,7\c\7cfc53f46088f421e6a0bf61c0bb3aacab38209b
 ^
 .src/main/java/org/testtcs/tasks/SaveToken.java,0\8\086e70fe10883c4ea9a6d39b2237e73879b92b3c
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
